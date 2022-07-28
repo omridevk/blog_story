@@ -4,6 +4,11 @@
   "main": "index.js",
   "author": "omridevk <omrikatz12@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:serve": "vitepress serve docs"
+  },
   "devDependencies": {
     "vitepress": "^1.0.0-alpha.4",
     "vue": "^3.2.37"
