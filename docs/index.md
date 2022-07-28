@@ -1,7 +1,7 @@
 # A Cool story
 
 ### I could not get github to work
-I thought github be ead
+I thought github be dead
 
 ### I could not get github to work
 I thought internet be dead
