@@ -1,0 +1,11 @@
+{
+  "name": "vitepress-starter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "omridevk <omrikatz12@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "vitepress": "^1.0.0-alpha.4",
+    "vue": "^3.2.37"
+  }
+}
